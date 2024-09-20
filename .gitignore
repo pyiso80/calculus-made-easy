@@ -1,0 +1,8 @@
+out/*.aux
+out/*.gz
+out/*.log
+out/*.toc
+.DS_Store
+out/33283-t.out
+out/33283-t.pdf
+out/Calculus_Made_Easy.out
